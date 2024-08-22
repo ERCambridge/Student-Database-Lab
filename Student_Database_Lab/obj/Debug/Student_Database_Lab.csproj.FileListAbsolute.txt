@@ -1,0 +1,7 @@
+C:\Users\Ethan\workspace\Lab_Repos\Student_Database_Lab\Student_Database_Lab\Student_Database_Lab\bin\Debug\Student_Database_Lab.exe.config
+C:\Users\Ethan\workspace\Lab_Repos\Student_Database_Lab\Student_Database_Lab\Student_Database_Lab\bin\Debug\Student_Database_Lab.exe
+C:\Users\Ethan\workspace\Lab_Repos\Student_Database_Lab\Student_Database_Lab\Student_Database_Lab\bin\Debug\Student_Database_Lab.pdb
+C:\Users\Ethan\workspace\Lab_Repos\Student_Database_Lab\Student_Database_Lab\Student_Database_Lab\obj\Debug\Student_Database_Lab.csproj.AssemblyReference.cache
+C:\Users\Ethan\workspace\Lab_Repos\Student_Database_Lab\Student_Database_Lab\Student_Database_Lab\obj\Debug\Student_Database_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\workspace\Lab_Repos\Student_Database_Lab\Student_Database_Lab\Student_Database_Lab\obj\Debug\Student_Database_Lab.exe
+C:\Users\Ethan\workspace\Lab_Repos\Student_Database_Lab\Student_Database_Lab\Student_Database_Lab\obj\Debug\Student_Database_Lab.pdb
